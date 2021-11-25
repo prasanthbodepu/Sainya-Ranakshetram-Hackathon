@@ -1,0 +1,11 @@
+MD5 - 936328a12537cb1d9185fde1475260b1 
+Video Link - https://drive.google.com/file/d/1JfqjzAnLx8chhi3DFIMF1cHDSgEkPLpL/view?usp=sharing
+Github Link - https://github.com/prasanthbodepu/Sainya-Ranakshetram-Hackathon
+
+As mentioned in the instruction, the web application that I have developed a code which address the web vulnerabilities.
+
+1. The user credentials are encrypted.
+2. I have used another security measure which is the user_code
+3. Hopefully, I think I have addressed the issues.
+
+There is an option to add the otp verification, captcha. But as there are other challenges to do, I am unable to develop in depth.
