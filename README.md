@@ -1,2 +1,2 @@
 # Sainya-Ranakshetram-Hackathon
-Indian Army Hackathon
+National Level Indian Army Hackathon
